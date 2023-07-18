@@ -2,9 +2,9 @@
 ![logo](https://vitejs.dev/logo-with-shadow.png)
 
 
-# youtube search downloader with vitejs
+# tiktok downloader with vitejs
 
-a website to search for videos youtube by keywords using the vitejs frontend.
+a website to download video tiktok using the vitejs frontend.
 ## Authors
 
 - [@fxc7](https://www.github.com/Fxc7)
